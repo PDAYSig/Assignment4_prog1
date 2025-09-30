@@ -1,0 +1,2 @@
+deg = float(input())
+
